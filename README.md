@@ -11,7 +11,7 @@
 ---
 
 🌍 Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,)](https://skillicons.dev)
 
 👨‍💻 Programs & more:
 [![Programs](https://skillicons.dev/icons?i=discord,idea,vscode,github,linux,windows)](https://skillicons.dev)
