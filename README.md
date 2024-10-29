@@ -3,7 +3,7 @@
 !ProfilViews
 
 <div align="center"> 
-    <img align="center" alt="ETH78 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ETH78p&count_private=true&hide_border=true&theme=vision-friendly-dark" />
+    <img align="center" alt="ETH78 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ETH78&count_private=true&hide_border=true&theme=vision-friendly-dark" />
     <br />
     <br />
     <img align="center" alt="ETH78 Discord Profile" src="https://lanyard-profile-readme.vercel.app/api/677154141935632396" />
